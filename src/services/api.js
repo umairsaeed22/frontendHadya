@@ -3,7 +3,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://hadyab.onrender.com"
+  baseURL: "https://hadyab.onrender.com/api"
 });
 
 /*
